@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joshmross
-- 👀 I’m interested in System Administation and learning C++.
-- 🌱 I’m currently learning C++.
+- 👀 I’m interested in Network Administation and learning Web Devolpment.
+- 🌱 I’m currently learning Web Devolpment.
 - 📫 How to reach me @ me@joshmross.com
 
 <!---
