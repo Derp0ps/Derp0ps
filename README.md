@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joshmross
-- 👀 I’m interested in Network Administation and learning Web Devolpment.
-- 🌱 I’m currently learning Web Devolpment.
+- 👀 I’m interested in Network Administation and Automation.
+- 🌱 I’m currently learning Linux and more in depth scripting.
 - 📫 How to reach me @ me@joshmross.com
 
 <!---
