@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joshmross
-- 👀 I’m interested in Network Administation and Automation.
-- 🌱 I’m currently learning Linux and more in depth scripting.
-- 📫 How to reach me @ me@joshmross.com
+- 👀 I’m interested in Web development and Automation.
+- 🌱 I’m currently learning Linux and Web Development.
+- 📫 How to reach me @ contact@joshmross.com
 
 <!---
 joshmross/joshmross is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
