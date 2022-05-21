@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @joshmross
-- 👀 I’m interested in Web development and Automation.
-- 🌱 I’m currently learning Linux and Web Development.
+- 👋 Hi, I’m @joshmross.
+- 🌱 I’m currently learning Python and Networking.
 - 📫 How to reach me @ contact@joshmross.com
 
 <!---
