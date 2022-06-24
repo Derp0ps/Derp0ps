@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Joshua Ross.
-- 🌱 I’m currently learning to script better within Windows and Linux.I'm also trying my hand at Python so in the the future you may see some python on here as well. 
+- 🌱 I’m currently learning to code in python as well learning to become a better SysAdmin. 
 - 📫 How to reach me  dev@jersh.tech
 
 <!---
