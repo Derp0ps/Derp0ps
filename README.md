@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Joshua Ross.
-- 🌱 I’m currently learning to code in python as well learning to become a better SysAdmin. 
+- 🌱 I’m currently learning to code in C#.
 - 📫 How to reach me  dev@jersh.tech
 
 <!---
