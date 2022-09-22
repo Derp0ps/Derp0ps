@@ -1,5 +1,5 @@
-#  👋 Hi, I’m Joshua Ross.
-### I'm a Homelab Enthusiast and IT Professional. I Currently work in web hosting and in my spare time I like to tinker with servers and new applications that I feel will help make my quality of life and time spent easier. 
+#  👋 Hi, I’m Joshua.
+### I'm a Homelab Enthusiast and IT Professional. I currently work in Web Hosting doing migration type work.In my spare time I like to tinker with servers, and new applications that I think will help improve my Quality of Life.
 
 ---
 ### 🧰 Tools
