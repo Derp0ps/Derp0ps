@@ -16,7 +16,7 @@
 ### 📊 Stats
 <br>
 
-![Yaboijersh's stats](https://github-readme-stats.vercel.app/api?username=yaboijersh&show_icons=true&theme=dracula)
+![Yaboijersh's stats](https://github-readme-stats.vercel.app/api?username=yaboijersh&show_icons=true&theme=codeSTACKr)
 
 
 
