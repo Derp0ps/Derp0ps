@@ -18,6 +18,8 @@
 
 ![Yaboijersh's stats](https://github-readme-stats-hryo.vercel.app/api?username=yaboijersh&show_icons=true&theme=codeSTACKr)
 
+[![Readme Card](https://github-readme-stats-hryo.vercel.app/api/pin/?username=yaboijersh&repo=winghetto)](https://github.com/yaboijersh/winghetto)
+
 
 
 
