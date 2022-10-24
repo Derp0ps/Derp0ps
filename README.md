@@ -16,8 +16,7 @@
 ### 📊 Stats
 <br>
 
-![Yaboijersh's stats](https://github-readme-stats-hryo.vercel.app/api?username=yaboijersh&show_icons=true&theme=codeSTACKr)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaboijersh)](https://github.com/yaboijersh/github-readme-stats)
 
 
 
