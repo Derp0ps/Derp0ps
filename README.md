@@ -13,10 +13,7 @@
 #
 
 
-### 📊 Stats
-<br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=derp0ps&show_icons=true&theme=merko)
 
 
 
