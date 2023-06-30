@@ -1,5 +1,5 @@
 #  👋 Hi, I’m Joshua.
-### I'm a Homelab Enthusiast and IT Professional. I currently work in Web Hosting and in my spare time I like to tinker with servers, and new applications that I think will help improve my Quality of Life.
+### I'm a Homelab Enthusiast and IT Professional. I currently work in the Govermnet Sector as an IT Analyst. In my spare time I like to tinker with servers, and new applications that I think will help improve my Quality of Life.
 
 ---
 ## 🧰 Tools
