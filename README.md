@@ -16,7 +16,7 @@ I'm a Homelab Enthusiast and IT Professional working in the Government Sector as
 
 ## Connect with Me
 
-📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/joshuamalcom/) or [Twitter](https://twitter.com/derp0ps). I'm always open to discussions on technology, homelab setups, and career insights.
+📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/joshuamalcom/) or [Twitter](https://twitter.com/yaboijersh). I'm always open to discussions on technology, homelab setups, and career insights.
 
 Let's code, learn, and optimize together! 💻✨
 
