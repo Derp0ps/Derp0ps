@@ -1,4 +1,4 @@
-# Hi there, I'm Joshua 👋
+<h1 align="center"> Hi there, I'm Joshua 👋
 
 ## About Me
 
