@@ -1,56 +1,40 @@
-<h1 align="center"> Hi there, I'm Joshua 👋
+<h1 align="center">Hi there, I'm Joshua! 👋</h1>
 
-## About Me
+## About Me 🚀
 
-I'm a Homelab Enthusiast and IT Professional working in the Government Sector as an IT Analyst. My passion lies in exploring and optimizing technology to enhance both personal and professional experiences. In my spare time, you'll often find me tinkering with servers and experimenting with new applications that I believe can elevate my Quality of Life.
+I'm a passionate **Automation Nerd** with experience in **Linux and Windows**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-## Current Focus
+- 🌱 Currently learning: **Terraform**
+- 🔭 Working on: **[Dotfiles](https://github.com/Derp0ps/dotfiles) and [Ez-Docker-Installer](https://github.com/Derp0ps/Ez-Docker-Installer)**
+- 🌍 Languages: **Bash,Powershell and Markdown**
+- 📫 How to reach me: **[eMail](mailto:dev@jersh.tech)**
+- ⚡ Fun fact: **I Have my own homelab and love to workout**
 
-🌐 **Learning Journey:** Currently expanding my programming skills in Python, Bash, and PowerShell.
+## My Skills 🧠
 
-## Tech Stack
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![BASH](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![POWERSHELL](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![MARKDOWN](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![NEOVIM](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-- **Operating Systems:** Linux, Windows
-- **Languages:** Bash, PowerShell, Markdown
-- **Professional Experience:** IT Analysis, Homelab Management
+## Featured Projects 💻
 
-## Connect with Me
-
-📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/joshuamalcom/) or [Twitter](https://twitter.com/yaboijersh). I'm always open to discussions on technology, homelab setups, and career insights.
-
-Let's code, learn, and optimize together! 💻✨
-
-## 🧰 Operating Systems & Tools
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Windows" width="30px" style="padding-right:10px;" inmg src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/windows8/windows8-original.svg" /> 
-
-
-
-<img align="left" alt="Pwsh" width="30px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
-<img align="left" alt="Bash" width="35px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="markdown" width="30px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />
-<img align="left" alt="neovim" width="30px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
-<img align="left" alt="vscode" width="30px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-
-          
-          
+### `Dotfiles`
 
 
+**Dotfiles** is a **collection of shell configs** built with **lua,bash and powershell**. This project demonstrates my ability to **script with bash and powershell**. You can check out the repository [here](https://github.com/Derp0ps/dotfiles).
 
-          
-          
+### `Ez-Docker-Installer`
+
+**Ez-Docker-Installer** is a **Docker and Portainer install script with logic to install on almost any modern distro minus arch and some others.** built with **Bash**. This project showcases my skills in **Bash Scripting**. You can check out the repository [here](https://github.com/Derp0ps/Ez-Docker-Installer).
+
+## Get in Touch 📬
+
+- [LinkedIn](https://www.linkedin.com/in/joshuamalcom)
+- [Twitter](https://twitter.com/your_twitter_username)
 
 
 
-
-
-
-
-
-
-
-
-<!---
-joshmross/joshmross is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
