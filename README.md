@@ -5,7 +5,7 @@
 I'm a passionate **Automation Nerd** with experience in **Linux and Windows**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **Terraform**
-- 🔭 Working on: **[Dotfiles](https://github.com/Derp0ps/dotfiles) and [Ez-Docker-Installer](https://github.com/Derp0ps/Ez-Docker-Installer)**
+- 🔭 Working on: **[Dotfiles](https://github.com/ross-jm/dotfiles) and [Website](https://github.com/ross-jm/website)**
 - 🌍 Languages: **Bash,Powershell and Markdown**
 - 📫 How to reach me: **[eMail](mailto:dev@jersh.tech)** or **[Discord](https://jersh.tech/chat)**
 - ⚡ Fun fact: **I Have my own homelab and love to workout**
