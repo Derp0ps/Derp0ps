@@ -25,11 +25,11 @@ I'm a passionate **Automation Nerd** with experience in **Linux and Windows**. I
 ### `Dotfiles`
 
 
-**Dotfiles** is a **collection of shell configs** built with **lua,bash and powershell**. This project demonstrates my ability to **script with bash and powershell**. You can check out the repository [here](https://github.com/Derp0ps/dotfiles).
+**Dotfiles** is a **collection of shell configs** built with **lua,bash and powershell**. This project demonstrates my ability to **script with bash and powershell**. You can check out the repository [here](https://github.com/ross-jm/dotfiles).
 
 ### `Ez-Docker-Installer`
 
-**Ez-Docker-Installer** is a **Docker and Portainer install script with logic to install on almost any modern distro minus arch and some others.** built with **Bash**. This project showcases my skills in **Bash Scripting**. You can check out the repository [here](https://github.com/Derp0ps/Ez-Docker-Installer).
+**Ez-Docker-Installer** is a **Docker and Portainer install script with logic to install on almost any modern distro minus arch and some others.** built with **Bash**. This project showcases my skills in **Bash Scripting**. You can check out the repository [here](https://github.com/ross-jm/Ez-Docker-Installer).
 
 ## Get in Touch 📬
 
