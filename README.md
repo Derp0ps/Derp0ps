@@ -7,7 +7,7 @@ I'm a passionate **Automation Nerd** with experience in **Linux and Windows**. I
 - 🌱 Currently learning: **Terraform**
 - 🔭 Working on: **[Website](https://github.com/ross-jm/ross-jm.github.io)**
 - 🌍 Languages: **Bash,Powershell and Markdown**
-- 📫 How to reach me: **[eMail](mailto:dev@jersh.tech)** or **[Discord](https://jersh.tech/chat)**
+- 📫 How to reach me: **[eMail](mailto:josh@rossjm.dev)** or **[Discord](https://jersh.tech/chat)**
 - ⚡ Fun fact: **I Have my own homelab and love to workout**
 
 ## My Skills 🧠
