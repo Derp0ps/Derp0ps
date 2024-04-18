@@ -31,10 +31,6 @@ I'm a passionate **Automation Nerd** with experience in **Linux and Windows**. I
 
 **Ez-Docker-Installer** is a **Docker and Portainer install script with logic to install on almost any modern distro minus arch and some others.** built with **Bash**. This project showcases my skills in **Bash Scripting**. You can check out the repository [here](https://github.com/ross-jm/Ez-Docker-Installer).
 
-## Get in Touch 📬
-
-- [LinkedIn](https://www.linkedin.com/in/joshuamalcom)
-- [Twitter](https://twitter.com/your_twitter_username)
 
 
 
