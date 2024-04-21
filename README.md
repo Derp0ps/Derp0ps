@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [rossjm.dev](https://rossjm.dev/)
 
-- 📫 How to reach me **[eMail](josh@rossjm.dev)**
+- 📫 How to reach me **[eMail](mailto:josh@rossjm.dev)**
 
 - 📄 Know about my experiences [CV](https://rossjm.dev/cv/)
 
