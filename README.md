@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python and Terraform**
 
-- 👨‍💻 All of my projects are available at [Public](https://github.com/ross-jm?tab=repositories&q=&type=public&language=&sort=)
+- 👨‍💻 All of my projects are available [Here](https://github.com/ross-jm?tab=repositories)
 
 - 📝 I regularly write articles on [rossjm.dev](https://rossjm.dev/)
 
