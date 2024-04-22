@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joshua Ross</h1>
-<h3 align="center">A passionate Automation Nerd from Michigan</h3>
+<h3 align="center">A passionate IT Nerd from Michigan</h3>
 
 
 
