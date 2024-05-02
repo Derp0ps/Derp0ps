@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [dotfiles](https://github.com/ross-jm/dotfiles)
+- 🔭 I’m currently working on [Homelab-Scripts](https://github.com/ross-jm/Homelab-Scripts)
 
 - 🌱 I’m currently learning **Python and Terraform**
 
