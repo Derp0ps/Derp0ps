@@ -8,7 +8,7 @@
 
 🔗 Take a look at my personal website, [rossjm.dev](https://rossjm.dev).
 
-📝 Browse some of the blog posts I have written here. [rossjm.dev](https://rossjm.dev/blog)
+📝 Browse some of the blog posts I have written here. [blog](https://rossjm.dev/blog)
 
 
 # 💻 Tech Stack
