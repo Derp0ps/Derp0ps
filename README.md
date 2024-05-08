@@ -6,9 +6,10 @@
 
 🚀 I am working on mainly personal projects to automate my workflow.
 
-🔗 Take a look at my personal website, [rossjm.dev](https://rossjm.dev).
+🔗 Take a look at my tech website, [rossjm.dev](https://rossjm.dev).
 
-📝 Browse some of the blog posts I have written here. [blog](https://rossjm.dev/blog)
+<!-- 🔗 Take a look at my personal website, [rossjm.net](https://rossjm.net). -->
+
 
 
 # 💻 Tech Stack
