@@ -6,7 +6,7 @@
 
 🚀 I am working on mainly personal projects to automate my workflow.
 
-🔗 Take a look at my tech website, [rossjm.dev](https://rossjm.dev).
+🔗 Take a look at my tech blog, [rossjm.dev](https://rossjm.dev).
 
 <!-- 🔗 Take a look at my personal website, [rossjm.net](https://rossjm.net). -->
 
