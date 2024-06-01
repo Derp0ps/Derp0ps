@@ -8,7 +8,7 @@
 
 🔗 Take a look at my tech blog, [rossjm.dev](https://rossjm.dev).
 
-### 🧐 Find Me
+### 👓 Find Me
 
 [Email](mailto:josh@rossjm.dev) • [LinkedIn](https://www.linkedin.com/in/joshuamalcom/) • [Twitter/X](https://twitter.com/ColoredBytes)
 
