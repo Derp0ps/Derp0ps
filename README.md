@@ -25,7 +25,6 @@
 
 <p>
   <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
-  <a href="#"><img alt="Let's Encrypt" src ="https://img.shields.io/badge/Let%27s%20Encrypt-003A70?logo=letsencrypt&logoColor=white&style=for-the-badge" /></a>
   <a href="#"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white&style=for-the-badge" /></a>
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" /></a>
   <a href="#"><img alt="NGINX" src ="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white&style=for-the-badge" /></a>
