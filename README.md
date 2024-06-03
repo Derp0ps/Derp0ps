@@ -7,12 +7,36 @@
 
 🔗 Take a look at my tech blog, [rossjm.dev](https://rossjm.dev).
 
-### 👓 Find Me
+### 🔎 Find Me
 
 [Email](mailto:josh@rossjm.dev) • [LinkedIn](https://www.linkedin.com/in/joshuamalcom/) • [Twitter/X](https://twitter.com/ColoredBytes)
 
-# 💻 Tech Stack
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)   ![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo) ![ANSIBLE](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white)
+## 🛠️ My Languages and Tools
 
+### Programming and Scripting Languages
 
+<p>
+  <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img alt="Powershell" src="https://img.shields.io/badge/Powershell-000000?logo=powershell&logoColor=&style=for-the-badge"></a>
+</p>
 
+### Databases and Hosting
+
+<p>
+  <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img alt="Let's Encrypt" src ="https://img.shields.io/badge/Let%27s%20Encrypt-003A70?logo=letsencrypt&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img alt="NGINX" src ="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white&style=for-the-badge" /></a>
+  </p>
+
+### Software 
+
+<p>
+  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" /></a>
+</p>
