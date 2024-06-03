@@ -13,7 +13,7 @@
 
 ## 🛠️ My Languages and Tools
 
-### Programming and Scripting Languages
+### Scripting Languages
 
 <p>
   <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge"></a>
