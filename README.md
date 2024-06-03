@@ -29,6 +29,7 @@
   <a href="#"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white&style=for-the-badge" /></a>
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" /></a>
   <a href="#"><img alt="NGINX" src ="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img alt="HUGO" src ="https://img.shields.io/badge/HUGO-009639?logo=hugo&logoColor=black&style=for-the-badge" /></a>
   </p>
 
 ### Software 
