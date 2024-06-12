@@ -38,5 +38,6 @@
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" /></a>
   <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
   <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-3c6eb4?logo=fedora&logoColor=white&style=for-the-badge" /></a>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" /></a>
 </p>
