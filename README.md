@@ -9,7 +9,11 @@
 
 ### 🔎 Find Me
 
-[Email](mailto:josh@rossjm.dev) • [LinkedIn](https://www.linkedin.com/in/joshuamalcom/) • [Twitter/X](https://twitter.com/ColoredBytes)
+<p>
+  <a href="mailto:josh@rossjm.dev"><img alt="Email" src="https://img.shields.io/badge/Email-8A2BFF?logo=protonmail&logoColor=white&style=for-the-badge"></a>
+  <a href="https://x.com/ColoredBytes"><img alt="twitter" src="https://img.shields.io/badge/Twitter-ffa500?logo=x&logoColor=black&style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/joshuamalcom/"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+</p>
 
 ## 🛠️ My Languages and Tools
 
