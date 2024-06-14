@@ -14,34 +14,24 @@
 
 ## 🛠️ The Important Bits
 
-### Operating Systems
+### Operating Systems & Languages
 
 <p>
   <a href="#"><img alt="windows" src="https://img.shields.io/badge/Windows-000000?logo=windows11&logoColor=&style=for-the-badge"></a>
   <a href="#"><img alt="macos" src="https://img.shields.io/badge/MacOSX-000000?logo=apple&logoColor=&style=for-the-badge"></a>
   <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-000000?logo=ubuntu&logoColor=&style=for-the-badge"></a>
   <a href="#"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-000000?logo=fedora&logoColor=&style=for-the-badge"></a>
-</p>
-
-### Scripting Languages
-
-<p>
   <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-000000?logo=gnu-bash&logoColor=&style=for-the-badge"></a>
-  <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=&style=for-the-badge"></a>
   <a href="#"><img alt="Powershell" src="https://img.shields.io/badge/Powershell-000000?logo=powershell&logoColor=&style=for-the-badge"></a>
+  <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=&style=for-the-badge"></a>
 </p>
 
-### Software 
+### Software
 
 <p>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-000000?logo=git&logoColor=&style=for-the-badge" /></a>
   <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-000000?logo=docker&logoColor=&style=for-the-badge" /></a>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-000000?logo=visual-studio-code&logoColor=&style=for-the-badge" /></a>
-</p>
-
-### Databases
-
-<p>
   <a href="#"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-000000?logo=mariadb&logoColor=&style=for-the-badge"/></a>
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-000000?logo=mysql&logoColor=&style=for-the-badge"/></a>
   <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-000000?logo=PostgreSQL&logoColor=&style=for-the-badge"/></a>
